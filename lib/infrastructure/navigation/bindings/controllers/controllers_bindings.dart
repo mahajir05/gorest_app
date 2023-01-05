@@ -1,0 +1,2 @@
+export 'package:gorest_app/infrastructure/navigation/bindings/controllers/detail.controller.binding.dart'; 
+export 'package:gorest_app/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
